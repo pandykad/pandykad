@@ -2,47 +2,16 @@
 
 <hr><br>
 <ul>
-    <li>🧩️ I love to solve real world problems with out of the box thinking. </li><br>
-    <li> 🏢 Currently studying at Syracuse University.</li><br>
-    <li> 🎓 Graduating in May 2024. </li><br>
-    <li> 👨‍💻 I have worked with programming languages such as C++, Python, JAVA and different JavaScript Frameworks such as <b>Node JS, React JS, Nest JS.</b></li><br>
-    <li> 🤖 I have also worked with tools such as <b>Docker, AWS, Postman, Nginx Web Server, Heroku, etc</b></li><br>
-    <li> 🔭 In my free time I Like to read about the ever expanding cosmos and the secret that lies within. </li><br>
-    <li> 🌐 Connect with me on : <a href="https://www.linkedin.com/in/prajwalkarale/">LinkedIn</a></li><br>
+    <li> 🧩️ What am I doing now? Maybe building a microservice and mostly adventuring with my friends :)</li><br>
+    <li> 🏢 Syracuse University Grad, Go Orange! 🍊</li><br>
+    <li> 🎓 Graduating in May 2024</li><br>
+    <li> 👨‍💻 I like the simplicity of Python, rigidity of Java and single-threaded nature of Javascript</b></li><br>
+    <li> 🤖 If I can't deploy my apps on the cloud, am I even a software engineer! I love fidgeting with <b>AWS, Docker, Kubeeeernetes...</b></li><br>
+    <li> 🌐 Wanna check out the serious things I have done :p Lets, connect on <a href="https://www.linkedin.com/in//">LinkedIn</a></li><br>
 </ul>
-<hr><br>
-
-# GITHUB STATISTICS
-
-![Prajwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=pandykad&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pandykad&theme=highcontrast)](https://git.io/streak-stats)
-
 <hr><br>
 
 ## 💻 Technologies that I have worked
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,express,nextjs,nestjs,react,c,cpp,docker,kubernetes,aws,nodejs,git,vscode,html,css,vim,nginx,python,flask,django,tensorflow,pytorch,bootstrap,styledcomponents,tailwind,redis,mongodb,mysql,linux,cloudflare,bash&theme=dark)](https://github.com/pandykad)
-
-<hr>
-
-### 🖥️ My Statistics:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandykad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-**PrajwalKarale/prajwalkarale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
