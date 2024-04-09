@@ -1,6 +1,4 @@
-<h1>Helllooooo, isn't this funny? 👇😂 <h1>
-
-<hr>
+<h1>Helllooooo, you are at Pratik's dungeon of code<h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=+Git+up%2C+Git+going%2C+Git+coding!)](https://git.io/typing-svg)
 
@@ -14,6 +12,8 @@
     <li> 🌐 Wanna check out the serious things I have done :p Lets, connect on <a href="https://www.linkedin.com/in//">LinkedIn</a></li><br>
 </ul>
 <hr><br>
+
+
 
 ## 💻 Technologies that I have worked
 <br>
