@@ -1,4 +1,7 @@
-<h1> Wassssuup? <h1>
+<h1>Helllooooo <h1>
+
+<hr><br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=+Git+up%2C+Git+going%2C+Git+coding!)](https://git.io/typing-svg)
 
 <hr><br>
