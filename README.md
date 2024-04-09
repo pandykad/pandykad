@@ -1,6 +1,6 @@
-<h1>Helllooooo <h1>
+<h1>Helllooooo, isn't this funny? 👇😂 <h1>
 
-<hr><br>
+<hr>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=+Git+up%2C+Git+going%2C+Git+coding!)](https://git.io/typing-svg)
 
